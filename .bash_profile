@@ -14,6 +14,12 @@ parse_git_branch() {
 }
 
 
-
+alias ls='ls -GFh'
+alias ll='ls -al'
+alias c=clear
+alias g=grunt
+alias co='git checkout'
+alias gcp='git add . && git commit -m\\'.\\' && git push'
+alias gp='git push'
 
 
