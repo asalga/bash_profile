@@ -1,0 +1,9 @@
+# System
+Thumbs.db
+.DS_Store
+
+# dirs
+.tmp
+wip/
+snippets/
+
