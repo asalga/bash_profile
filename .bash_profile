@@ -27,6 +27,7 @@ alias co='git checkout'
 alias gcp='git add . && git commit -m\\'.\\' && git push'
 alias gp='git push'
 alias bashs="source ~/.bash_profile"
+alias ..='cd ..'
 
 export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 export PATH="/usr/local/opt/ruby/bin:$PATH"
